@@ -1,0 +1,25 @@
+	OS Assignment #1 v1.0
+
+This is a program that mangage execute and terminate processes on linux.
+
+This is run at ubuntu linux.
+	
+procman.c
+	This is source file for overall program.
+	Read text, split statement, do the task.
+
+task.c
+	This is Source file for what the process is doing.
+
+configure1.txt
+	A file containing executable statements that the process perform
+
+MakeFile
+	A file that help control program files.
+	with make statement, it support compile, remove, execute in easy way.
+	for example, make test(compile & execute program), make clean(remove all	compiled file)
+
+result1.txt
+	A file that store result of program.
+
+	

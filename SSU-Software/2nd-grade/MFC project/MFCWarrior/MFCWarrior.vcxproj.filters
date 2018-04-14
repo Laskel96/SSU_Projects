@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MFCWarrior.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCWarriorDoc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCWarriorView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="OutputView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CodeView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="InputView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MySplitter.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFCWarrior.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCWarriorDoc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCWarriorView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="OutputView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CodeView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="InputView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MySplitter.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFCWarrior.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MFCWarrior.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MFCWarriorDoc.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\MFCWarrior.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\mfc 비트맵\worrior.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\mfc 비트맵\worrior.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\mfc 비트맵\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\mfc 비트맵\worrior_left.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\mfc 비트맵\worrior_right.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\mfc 비트맵\sword.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\mfc 비트맵\sword_left.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\mfc 비트맵\sword_right.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\mfc 비트맵\Tree.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\mfc 비트맵\shield.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\mfc 비트맵\shield_left.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\mfc 비트맵\shield_right.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\worrior.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\worrior_left.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\worrior_right.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Tree.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\shield.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\shield_left.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\shield_right.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\background.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\sword.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\sword_left.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\sword_right.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\cliff.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\linecliff.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\lock.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\Desktop\wqylqqgqoyq.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\door.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\dooropen.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Balloon.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\fireball.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\magic1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\magic2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\NPC.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\스탬피.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\Desktop\상순\res\arrow.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\startbackground.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\cut.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\sword_attack1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\sword_attack2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\sword_attack3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\arrow.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\endbackground.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="BGM.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+OS Assignment #5 v1.0
+
+This is a program that share resources among processes with memory map. This program send unix signal to other proesses when data is changed.
+
+This is run at ubuntu linux.
+
+person.h
+	In here, definition of data structures.
+person.c
+	In this file, modify or print value of data structure which is mapped in file using memory map. When user use -s option while runtime, user can change value of attibute. The additional funtion of this file for assignment is -w option that when other process's attribute have changed, this proess accept signal and print changed attribute and pid of process that send signal.
+
+MakeFile
+	A file that help control program files.

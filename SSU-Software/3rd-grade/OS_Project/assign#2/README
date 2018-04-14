@@ -1,0 +1,20 @@
+	OS Assignment #2 v1.0
+
+	This is a program that schedule processes on linux.
+
+	This is run at ubuntu linux.
+
+	sched.c
+		This is source file for overall program.
+		Read text, split statement, schedule according to text
+
+	result1.txt
+		This is file of result
+
+	data1.txt
+		A file containing executable statements about process
+
+	MakeFile
+		A file that help control program files.
+		With make statement, it supprot compile ,remove, execute program in easy way
+		For example, make test(compile & execute program), make clean(removea all compiled file)

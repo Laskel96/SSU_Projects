@@ -1,0 +1,15 @@
+OS Assignment #4 v1.0
+
+This is a program that make file system that show executing process information into directory list using FUSE
+
+This is run at ubuntu linux.
+
+pfs.c
+	This is a file for fuse. In here getattr, 
+	readdir,unlink functions are implemented. The
+	goal of this assignment is fill out pfs_unlink
+	function that when command rm executed, kill 
+	applicable process.
+
+MakeFile
+	A file that help control program files.

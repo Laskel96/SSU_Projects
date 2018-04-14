@@ -1,0 +1,25 @@
+OS Assignment #3 v1.0
+
+This is a program that solve thread synchronization problem with semaphore
+
+This is run at ubuntu linux.
+
+dining.c
+	This is source file for dining philosoper problem.
+	In here, we solve this problem with try_wait function that will implemented in sem.c
+
+sem.c
+	This is source of semaphore.
+	Wait(), Siagnal() function is implemented.
+
+sem.h
+	This is source of semaphore structure.
+
+test.c
+	This is source of test file of multi thread.
+	It shows multiple thread run concurrently
+
+MakeFile
+	A file that help control program files.
+	With make statement, it supprot compile ,remove, execute program in easy way
+	For example, make test(compile & execute program), make clean(removea all compiled file)
